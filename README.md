@@ -1,2 +1,2 @@
 # CitizenPac
-This is Francis Rayos del Sol's CitzenPac.
+This is the Github repository for Francis Rayos del Sol's CitzenPac.
