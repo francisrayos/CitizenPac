@@ -1,2 +1,2 @@
 # CitizenPac
-Python-designed game inspired by the video game Pac-Man.
+This is Francis Rayos del Sol's CitzenPac.
